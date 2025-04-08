@@ -1,6 +1,6 @@
 ![WPA2 Banner](https://raw.githubusercontent.com/wpa-2/wpa-2/main/wpa2_final_real_under1mb.png)
 
-# 👾 Welcome to the Green Zone — wpa-2
+# 👾 Welcome to the Green Zone — WPA2
 
 > "Code is the key. Chaos is the playground."
 
