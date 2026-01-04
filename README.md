@@ -57,10 +57,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=wpa-2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=wpa-2&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ### ☕ Support My Work
