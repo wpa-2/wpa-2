@@ -1,3 +1,4 @@
+![WPA2 Banner](https://raw.githubusercontent.com/wpa-2/wpa-2/main/wpa2_final_real_under1mb.png)
 # 👾 Welcome to the Green Zone — WPA2
 > "Code is the key. Chaos is the playground."
 ---
@@ -15,10 +16,14 @@
 </p>
 ---
 ### 🚀 Current Projects
-![Currently Working On](https://img.shields.io/badge/Currently%20Working%20On-Hacking%20The%20Matrix-brightgreen?style=for-the-badge&logo=linux)
+<p align="center">
+  ![Currently Working On](https://img.shields.io/badge/Currently%20Working%20On-Hacking%20The%20Matrix-brightgreen?style=for-the-badge&logo=linux)
+</p>
 ---
 ### 📊 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=wpa-2&color=brightgreen&style=flat-square)
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=wpa-2&color=brightgreen&style=flat-square)
+</p>
 ---
 <p align="center">
 ✨ **Stay encrypted. Stay unstoppable.** ✨
